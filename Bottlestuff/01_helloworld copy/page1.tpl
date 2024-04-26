@@ -45,7 +45,7 @@ window.onload = add_validation_links;
 <body>
 
 <main>
-<h1>This is page 2</h1>
+<h1>This is page 1</h1>
 
 <p>Add <code>/[message]</code> (example: <code>/New York</code>) to change
 the message.</p>
